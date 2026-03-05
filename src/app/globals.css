@@ -1,0 +1,148 @@
+@import "tailwindcss";
+
+@theme inline {
+  /* Backgrounds — all light */
+  --color-white: #FFFFFF;
+  --color-gray-50: #F8FAFC;
+  --color-gray-100: #F1F5F9;
+  --color-gray-200: #E2E8F0;
+  --color-gray-300: #CBD5E1;
+
+  /* Brand — CHANGE THIS for your project */
+  --color-brand: #116dff;
+  --color-brand-light: #3d8bff;
+  --color-brand-dark: #0055d4;
+  --color-accent-cyan: #06B6D4;
+  --color-accent-violet: #8B5CF6;
+  --color-accent-emerald: #10B981;
+  --color-accent-amber: #F59E0B;
+  --color-cta: #d946ef;
+  --color-whatsapp: #25D366;
+
+  /* Text */
+  --color-text-dark: #0F172A;
+  --color-text-body: #475569;
+  --color-text-muted: #94A3B8;
+  --color-text-light: #F1F5F9;
+
+  /* Borders */
+  --color-border: #E2E8F0;
+
+  /* Fonts */
+  --font-heading: 'Bricolage Grotesque', sans-serif;
+  --font-body: 'Plus Jakarta Sans', sans-serif;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--color-white);
+  color: var(--color-text-body);
+  font-family: var(--font-body);
+}
+
+/* Scroll Reveal */
+.reveal-blur {
+  opacity: 0;
+  filter: blur(6px);
+  transform: translateY(20px);
+  transition: opacity 0.7s cubic-bezier(0.16, 1, 0.3, 1),
+              filter 0.7s cubic-bezier(0.16, 1, 0.3, 1),
+              transform 0.7s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.reveal-blur.visible {
+  opacity: 1;
+  filter: blur(0);
+  transform: translateY(0);
+}
+
+/* Rotating Text */
+.rotating-text-enter { opacity: 0; filter: blur(4px); transform: translateY(16px); }
+.rotating-text-active {
+  opacity: 1; filter: blur(0); transform: translateY(0);
+  transition: opacity 0.5s ease-out, filter 0.5s ease-out, transform 0.5s ease-out;
+}
+.rotating-text-exit {
+  opacity: 0; filter: blur(4px); transform: translateY(-16px);
+  transition: opacity 0.5s ease-out, filter 0.5s ease-out, transform 0.5s ease-out;
+}
+
+/* WhatsApp Pulse */
+@keyframes whatsapp-pulse {
+  0% { box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.4); }
+  70% { box-shadow: 0 0 0 14px rgba(37, 211, 102, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(37, 211, 102, 0); }
+}
+
+/* Testimonial Scroll */
+@keyframes scroll-left {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+@keyframes scroll-right {
+  0% { transform: translateX(-50%); }
+  100% { transform: translateX(0); }
+}
+
+/* FAQ Accordion */
+.faq-answer { max-height: 0; overflow: hidden; transition: max-height 0.4s cubic-bezier(0.16, 1, 0.3, 1); }
+.faq-open .faq-answer { max-height: 400px; }
+.faq-chevron { transition: transform 0.3s ease; }
+.faq-open .faq-chevron { transform: rotate(180deg); }
+
+/* Gradient Text — uses brand colors */
+.gradient-text {
+  background: linear-gradient(135deg, var(--color-brand) 0%, var(--color-brand-light) 50%, var(--color-accent-cyan) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Card */
+.card {
+  background: #FFFFFF;
+  border: 1px solid #E2E8F0;
+  border-radius: 16px;
+  box-shadow: 0 1px 3px rgba(15, 23, 42, 0.04), 0 4px 24px rgba(15, 23, 42, 0.03);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+.card:hover {
+  box-shadow: 0 4px 12px rgba(15, 23, 42, 0.08), 0 8px 32px rgba(15, 23, 42, 0.04);
+  transform: translateY(-2px);
+}
+
+/* Dot pattern — uses brand color */
+.dot-pattern {
+  background-image: radial-gradient(circle, rgba(17, 109, 255, 0.08) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+/* Divider */
+.gradient-divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #E2E8F0, transparent);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #F8FAFC; }
+::-webkit-scrollbar-thumb { background: #CBD5E1; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #94A3B8; }
+
+/* Selection — uses brand color */
+::selection { background: rgba(17, 109, 255, 0.15); color: #0F172A; }
+
+/* Shine button effect */
+@keyframes shine {
+  0% { left: -100%; }
+  100% { left: 200%; }
+}
+.btn-shine { position: relative; overflow: hidden; }
+.btn-shine::after {
+  content: '';
+  position: absolute; top: 0; left: -100%;
+  width: 50%; height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+  transition: none;
+}
+.btn-shine:hover::after { animation: shine 0.8s ease-out; }
