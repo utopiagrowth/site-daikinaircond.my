@@ -14,9 +14,9 @@ function FAQItem({ item, isOpen, onToggle }: {
     <div className={`card overflow-hidden ${isOpen ? "faq-open" : ""}`}>
       <button
         onClick={onToggle}
-        className="w-full flex items-center justify-between px-6 py-5 text-left"
+        className="w-full flex items-center justify-between px-6 py-5 text-left min-h-[56px]"
       >
-        <span className="font-heading font-bold text-[var(--color-text-dark)] text-sm md:text-base pr-4">
+        <span className="font-bold text-[var(--color-text-dark)] text-base md:text-lg pr-4">
           {item.question}
         </span>
         <ChevronDown className="faq-chevron w-5 h-5 text-[var(--color-text-muted)] shrink-0" />
@@ -38,12 +38,12 @@ export default function FAQ() {
       <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
         <ScrollReveal>
           <div className="text-center mb-14">
-            <div className="inline-flex items-center gap-2 bg-[var(--color-accent-violet)]/10 border border-[var(--color-accent-violet)]/20 rounded-full px-4 py-1.5 mb-6">
-              <span className="text-[var(--color-accent-violet)] text-sm font-medium">FAQ</span>
+            <div className="inline-flex items-center gap-2 bg-[var(--color-brand)]/10 border border-[var(--color-brand)]/20 rounded-full px-4 py-1.5 mb-6">
+              <span className="text-[var(--color-brand)] text-sm font-medium">Soalan Lazim</span>
             </div>
-            <h2 className="font-heading text-3xl md:text-4xl font-[700] text-[var(--color-text-dark)]">
-              Frequently Asked<br />
-              <span className="gradient-text">Questions</span>
+            <h2 className="text-3xl md:text-4xl font-extrabold text-[var(--color-text-dark)]">
+              Soalan Yang Selalu<br />
+              <span className="gradient-text">Ditanya</span>
             </h2>
           </div>
         </ScrollReveal>
