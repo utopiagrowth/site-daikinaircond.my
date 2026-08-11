@@ -42,7 +42,7 @@ const GALLERY_IMAGES = [
   '/images/products/ftv-p-banner.jpg',
   '/images/products/ftv-p-3hp-banner.jpg',
   '/images/products/smarto-banner.jpg',
-  '/images/brand/goclean-banner.jpg',
+  '/images/blog/kos-servis-aircond.jpg',
   '/images/brand/smart-control-banner.jpg',
 ];
 const BRAND_LOGO_ON_DARK = '/images/brand/daikin-logo-light.png';
