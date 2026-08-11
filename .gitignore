@@ -1,39 +1,19 @@
-# dependencies
-/node_modules
-/.pnp
-.pnp.*
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/versions
+# Raw artwork sources — optimized versions live in public/
+brand_assets/
 
-# testing
-/coverage
+# One-shot insert/seed scripts written by agents (Cyclops/Hanabi)
+.blog-scripts/
+.cyclops-*/
+.hanabi-*/
 
-# next.js
-/.next/
-/out/
+# Local screenshots produced during development
+temporary screenshots/
 
-# production
-/build
-
-# misc
-.DS_Store
-*.pem
-
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
-
-# env files
-.env*
-
-# vercel
-.vercel
-
-# typescript
+# Build + IDE
+.next/
+node_modules/
 *.tsbuildinfo
-next-env.d.ts
+.vercel/
+.env.local
+.DS_Store
+.vercel

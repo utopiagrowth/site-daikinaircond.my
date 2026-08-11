@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://site-tau-sooty-90.vercel.app/sitemap.xml

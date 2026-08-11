@@ -1,0 +1,347 @@
+{
+  "meta": {
+    "home": {
+      "title": "马来西亚大金冷气安装 — 保养与分期租购 | Daikin AirCond",
+      "description": "大金冷气安装由 RM1,760 起，保养由 RM80 起，分期租购由每月 RM89 起。变频、非变频、天花式冷气全马安装。WhatsApp 索取报价。"
+    },
+    "location": {
+      "title": "{location} 大金冷气安装 — 保养与分期租购",
+      "description": "在 {state}{location} 提供大金冷气安装、保养与分期租购。变频机型省电最高 50%，压缩机保固 5 年。WhatsApp 索取报价。"
+    },
+    "blogListing": {
+      "title": "大金冷气指南 — Daikin AirCond Malaysia 博客",
+      "description": "关于大金冷气价格、保养、化学清洗与机型选择的实用指南，适用于马来西亚的住家与办公室。"
+    }
+  },
+  "nav": {
+    "logoAlt": "Daikin AirCond Malaysia — 大金冷气安装、保养与分期租购",
+    "home": "首页",
+    "products": "机型",
+    "packages": "分期租购",
+    "locations": "服务地区",
+    "blog": "博客",
+    "whatsappCta": "WhatsApp 联系",
+    "calculator": "分期租购"
+  },
+  "fomo": {
+    "eyebrow": "{monthUpper} 优惠",
+    "body": "大金冷气安装最高省 RM 300 — {month} 优惠倒数：",
+    "countdownLabel": "天 : 时 : 分 : 秒",
+    "ctaLabel": "索取报价"
+  },
+  "hero": {
+    "eyebrow": "安装 · 保养 · 分期租购大金冷气",
+    "h1Part1": "马来西亚",
+    "h1Highlight": "大金冷气",
+    "h1Part2": "安装服务",
+    "h2": "为住家与办公室提供大金冷气安装、保养与分期租购",
+    "supporting": "原厂大金机组，压缩机保固 5 年。变频机型省电最高 50%。大金专业技师 1–3 天内上门。",
+    "ctaPrimary": "索取报价",
+    "ctaSecondary": "查看分期租购 →",
+    "statProducts": "冷气类别",
+    "statStates": "覆盖州属",
+    "statInstall": "专业安装",
+    "imageAlt": "技师在马来西亚住家安装壁挂式大金冷气",
+    "bgAlt": "技师在客厅墙上安装大金变频冷气"
+  },
+  "marquee": {
+    "items": [
+      "大金冷气安装",
+      "保养与化学清洗",
+      "分期租购每月 RM89 起",
+      "变频省电 50%",
+      "压缩机保固 5 年",
+      "R32 环保冷媒",
+      "价格透明",
+      "全马服务"
+    ]
+  },
+  "brandStrip": {
+    "eyebrow": "我们安装的大金系列",
+    "items": [
+      "Daikin SMARTO",
+      "Daikin FTKM 系列",
+      "Daikin BLUVI",
+      "Daikin FTKP 系列",
+      "Daikin FTKF 系列",
+      "Daikin FTV-P 非变频",
+      "Daikin SkyAir 天花式"
+    ]
+  },
+  "usp": {
+    "items": [
+      {
+        "title": "只专注大金",
+        "body": "我们只做一个品牌 — 大金。技师熟悉每个机型，从 SMARTO 到 SkyAir 天花式。"
+      },
+      {
+        "title": "原厂机组与保固",
+        "body": "压缩机保固 5 年，零件 3 年。所有机组皆为全新并已注册。"
+      },
+      {
+        "title": "价格透明",
+        "body": "安装价格已含支架、10 尺铜管与线路。若有额外费用，动工前先告知。"
+      }
+    ],
+    "srHeading": "全马信赖的大金冷气服务"
+  },
+  "products": {
+    "eyebrow": "大金冷气机型",
+    "h3": "选择您的大金冷气",
+    "intro": "变频、非变频与天花式机型 — 所有价格已含机组与标准安装。",
+    "priceFrom": "RM {price} 起",
+    "ctaTemplate": "立即预订",
+    "imageAltTemplate": "安装于马来西亚住家的大金 {model} 冷气"
+  },
+  "combo": {
+    "eyebrow": "大金分期租购方案",
+    "h3": "分期租购大金冷气 — 期满即归您所有",
+    "intro": "无需一次付清。按月支付即可获得全新大金机组，含安装与一年保固。",
+    "note": "含机组 + 安装 + 保固",
+    "ctaLabel": "预订方案",
+    "items": [
+      {
+        "name": "分期租购 1.0 HP",
+        "spec": "大金 1.0HP 变频 — 24 个月，订金 RM200",
+        "price": "每月 RM 109",
+        "tag": "最受欢迎"
+      },
+      {
+        "name": "分期租购 1.5 HP",
+        "spec": "大金 1.5HP 变频 — 24 个月，订金 RM200",
+        "price": "每月 RM 139",
+        "tag": "主人房适用"
+      },
+      {
+        "name": "分期租购 2.0 HP",
+        "spec": "大金 2.0HP 变频 — 24 个月，订金 RM300",
+        "price": "每月 RM 209",
+        "tag": "客厅适用"
+      }
+    ],
+    "bgAlt": "以每月分期租购方案安装的大金变频冷气"
+  },
+  "process": {
+    "eyebrow": "大金冷气安装流程",
+    "h3": "四个步骤完成大金冷气安装",
+    "steps": [
+      {
+        "title": "WhatsApp 联系我们",
+        "body": "发送安装位置照片与房间尺寸 — 我们建议合适马力并提供报价。"
+      },
+      {
+        "title": "确认机型与价格",
+        "body": "可选择一次购买或按月分期租购。报价固定，绝无隐藏费用。"
+      },
+      {
+        "title": "1–3 天内安装",
+        "body": "技师依您选择的时段上门。标准安装约需 2–4 小时。"
+      },
+      {
+        "title": "制冷有保障",
+        "body": "我们当场测试机组。压缩机保固 5 年，售后可直接 WhatsApp 联系。"
+      }
+    ],
+    "ctaBody": "第一步不到一分钟 — 现在就把房间尺寸发给我们。",
+    "ctaLabel": "WhatsApp 联系",
+    "bgAlt": "技师在客户住家安装大金冷气"
+  },
+  "whyUs": {
+    "eyebrow": "为何选择我们",
+    "h3": "屋主为何选择大金冷气",
+    "items": [
+      {
+        "title": "省电最高 50%",
+        "body": "大金变频压缩机依室温调节转速，不再频繁启停，电费明显下降。"
+      },
+      {
+        "title": "低至 19 分贝",
+        "body": "比耳语更安静，适合卧室与婴儿房。"
+      },
+      {
+        "title": "压缩机保固 5 年",
+        "body": "压缩机保固 5 年，零件 3 年。大金压缩机寿命一般为 8–10 年。"
+      },
+      {
+        "title": "售后持续支援",
+        "body": "制冷不足或有异响？直接 WhatsApp 我们，无需填表或等候。"
+      }
+    ],
+    "bgAlt": "整齐安装于客厅墙上的大金变频冷气"
+  },
+  "reviews": {
+    "eyebrow": "大金冷气客户评价",
+    "h3": "Google 安装评价 4.8 / 5",
+    "aggregate": "186 则 Google 评价，4.8 / 5",
+    "postedOn": "发布于 Google",
+    "items": [
+      {
+        "name": "Ahmad Rizuan",
+        "suburb": "雪兰莪蒲种",
+        "stars": 5,
+        "body": "早上 WhatsApp 询问 1.5HP 大金的价格，下午就确认，隔天安装。做工整齐，收费与报价一致。"
+      },
+      {
+        "name": "Faizal Mokhtar",
+        "suburb": "雪兰莪莎阿南",
+        "stars": 5,
+        "body": "出租屋用了 2HP 大金的分期租购方案，每月才 RM209，不必一次付大笔钱，租客也满意。"
+      },
+      {
+        "name": "Siti Aminah",
+        "suburb": "吉隆坡安邦",
+        "stars": 5,
+        "body": "旧冷气每月电费要 RM400，换了大金变频后降到约 RM250，早该换了。"
+      },
+      {
+        "name": "Jason Tan",
+        "suburb": "吉隆坡 KLCC",
+        "stars": 5,
+        "body": "化学清洗很值得。冷气四年没保养，洗完后凉度像新的一样。"
+      },
+      {
+        "name": "Nurul Hidayah",
+        "suburb": "雪兰莪赛城",
+        "stars": 5,
+        "body": "我比较了五家才决定。这里价格最透明，没有隐藏收费，还能选分期租购。"
+      },
+      {
+        "name": "Kevin Lim",
+        "suburb": "雪兰莪八打灵再也",
+        "stars": 5,
+        "body": "新办公室装了三台大金，团队一天内完成，完全没影响办公。"
+      }
+    ],
+    "bgAlt": "技师在客户住家完成大金冷气安装"
+  },
+  "gallery": {
+    "eyebrow": "大金冷气安装实例",
+    "h3": "住家与办公室的大金冷气安装",
+    "intro": "我们在住家、公寓与商业场所完成的安装与保养实例。",
+    "alts": [
+      "技师在客厅安装壁挂式大金冷气",
+      "安装于现代卧室的大金 FTKM 变频冷气",
+      "安装于开放式办公室天花的大金 SkyAir 天花式机组",
+      "安装于卧室墙面的大金 FTKB 变频冷气",
+      "安装于家庭起居室的大金 FTKE 变频冷气",
+      "安装于排屋墙面的大金 FTKF 变频冷气",
+      "安装于主人房的大金 FTKP 变频冷气",
+      "安装于卧室的大金 FTV-P 非变频冷气",
+      "安装于宽敞客厅的大金 FTV-P 3HP 冷气",
+      "配备 Wi-Fi 控制的大金 SMARTO 冷气",
+      "技师为大金冷气进行化学清洗保养",
+      "以 GO DAIKIN 手机应用程式控制家中冷气"
+    ]
+  },
+  "faq": {
+    "eyebrow": "大金冷气常见问题",
+    "h3": "大金冷气安装与保养常见问题",
+    "items": [
+      {
+        "q": "安装大金冷气要多少钱？",
+        "a": "1HP 大金机组连标准安装由 RM1,760 起，已含支架、10 尺铜管与线路。若需要更长铜管，我们会在动工前告知额外费用。"
+      },
+      {
+        "q": "大金分期租购如何运作？",
+        "a": "您选择机型，我们安装全新机组。月供由 RM89（36 个月）或 RM109（24 个月）起，订金依马力为 RM200–RM500。供期结束后机组 100% 归您所有。"
+      },
+      {
+        "q": "分期租购包含什么？",
+        "a": "包含全新大金机组、专业安装与一年保固。也可加购每月 RM49 的保养方案，每三个月保养一次。"
+      },
+      {
+        "q": "大金保养与化学清洗收费多少？",
+        "a": "一般保养每台由 RM80 起，化学清洗由 RM130 起。天花式机组保养由 RM200 起，全面化学清洗由 RM350 起。"
+      },
+      {
+        "q": "安装需要多长时间？",
+        "a": "订单确认后通常 1–3 天内安装。安装本身约 2–4 小时，视现场情况而定，时段由您选择。"
+      },
+      {
+        "q": "为什么选择大金而非其他品牌？",
+        "a": "大金是马来西亚最畅销的冷气品牌。变频机型省电最高 50%，运转低至 19 分贝，压缩机保固 5 年，并采用更环保的 R32 冷媒。"
+      },
+      {
+        "q": "分期租购期间机组故障怎么办？",
+        "a": "在保固期内我们免费维修或更换。保固期后，分期租购客户可享优惠保养价。"
+      },
+      {
+        "q": "服务范围涵盖哪些地区？",
+        "a": "我们在马来西亚半岛、沙巴与砂拉越提供大金冷气安装与保养。WhatsApp 告知您的位置以确认最近的技师时段。"
+      }
+    ]
+  },
+  "locations": {
+    "eyebrow": "全马大金冷气服务范围",
+    "h3": "全马大金冷气安装与保养",
+    "intro": "我们为马来西亚 14 个州属的住家与商业场所提供大金冷气安装、保养与分期租购服务。",
+    "topCitiesLabel": "主要城市",
+    "stateLabels": {
+      "klangValley": "巴生谷",
+      "selangor": "雪兰莪",
+      "negeriSembilan": "森美兰",
+      "melaka": "马六甲",
+      "johor": "柔佛",
+      "perak": "霹雳",
+      "penang": "槟城",
+      "kedah": "吉打",
+      "perlis": "玻璃市",
+      "kelantan": "吉兰丹",
+      "terengganu": "登嘉楼",
+      "pahang": "彭亨",
+      "sabah": "沙巴",
+      "sarawak": "砂拉越",
+      "labuan": "纳闽"
+    }
+  },
+  "finalCta": {
+    "eyebrow": "免费大金冷气报价",
+    "h3": "今天就安装您的大金冷气",
+    "body": "把房间尺寸与所在地区发给我们 — 我们会建议合适马力，几分钟内给您固定报价。",
+    "ctaLabel": "WhatsApp 联系",
+    "bgAlt": "傍晚时分为客厅制冷的大金变频冷气"
+  },
+  "footer": {
+    "tagline": "Daikin AirCond Malaysia — 为住家与办公室提供大金冷气安装、保养与分期租购。原厂机组、完整保固、价格透明。",
+    "productsHeading": "服务项目",
+    "productsLinks": [
+      "冷气安装",
+      "保养与化学清洗",
+      "分期租购",
+      "商用天花式"
+    ],
+    "locationsHeading": "主要地区",
+    "resourcesHeading": "资源",
+    "blogLabel": "博客",
+    "faqLabel": "常见问题",
+    "copyright": "© 2026 Daikin AirCond Malaysia. 版权所有。由 Utopia Group of Companies 提供技术支持"
+  },
+  "blog": {
+    "title": "Daikin AirCond Malaysia 博客",
+    "subtitle": "大金冷气价格、保养与机型选择指南",
+    "readMore": "阅读更多",
+    "noPosts": "尚未发布文章。",
+    "breadcrumbHome": "首页",
+    "breadcrumbBlog": "博客",
+    "publishedOn": "发布于",
+    "minRead": "分钟阅读",
+    "recentPosts": "最新文章",
+    "ctaBannerTitle": "准备在家安装大金冷气了吗？",
+    "ctaBannerBody": "立即 WhatsApp 我们，索取安装报价或分期租购方案。",
+    "ctaBannerLabel": "WhatsApp 联系"
+  },
+  "location": {
+    "breadcrumbHome": "首页",
+    "breadcrumbLocations": "服务地区",
+    "introTemplate": "在 {state}{location} 提供大金冷气安装、保养与分期租购。原厂变频机组、压缩机保固 5 年、价格透明。WhatsApp 索取报价。",
+    "h1Template": "{location} 大金冷气安装",
+    "h2Template": "{state} 住家大金冷气保养与分期租购",
+    "nearbyHeading": "{location} 附近的大金冷气安装",
+    "nearbyEyebrow": "邻近地区大金冷气服务"
+  },
+  "redirect": {
+    "heading": "正在开启 WhatsApp…",
+    "subtext": "正在为您接通 Daikin AirCond Malaysia 团队。",
+    "fallback": "若未自动跳转，请点击这里"
+  }
+}

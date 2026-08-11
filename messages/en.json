@@ -1,0 +1,347 @@
+{
+  "meta": {
+    "home": {
+      "title": "Daikin Aircond Installation Malaysia — Service & Rent-to-Own | Daikin AirCond",
+      "description": "Daikin aircond installation from RM1,760, servicing from RM80, rent-to-own from RM89/month. Inverter, non-inverter and cassette units. Daikin specialists nationwide. WhatsApp for a quote."
+    },
+    "location": {
+      "title": "Daikin Aircond Installation {location} — Service & Rent-to-Own",
+      "description": "Daikin aircond installation, servicing and rent-to-own in {location}, {state}. Inverter units save up to 50% electricity, 5-year compressor warranty. WhatsApp for a quote."
+    },
+    "blogListing": {
+      "title": "Daikin Aircond Guides — Daikin AirCond Malaysia Blog",
+      "description": "Guides on Daikin aircond pricing, servicing, chemical wash and choosing the right model for homes and offices in Malaysia."
+    }
+  },
+  "nav": {
+    "logoAlt": "Daikin AirCond Malaysia — Daikin Aircond Installation, Service & Rent-to-Own",
+    "home": "Home",
+    "products": "Models",
+    "packages": "Rent-to-Own",
+    "locations": "Locations",
+    "blog": "Blog",
+    "whatsappCta": "WhatsApp Us",
+    "calculator": "Rent-to-Own"
+  },
+  "fomo": {
+    "eyebrow": "{monthUpper} PROMO",
+    "body": "Save up to RM 300 on Daikin aircond installation — {month} promo ends in:",
+    "countdownLabel": "Days : Hours : Minutes : Seconds",
+    "ctaLabel": "Get a Quote"
+  },
+  "hero": {
+    "eyebrow": "INSTALL · SERVICE · RENT-TO-OWN DAIKIN AIRCOND",
+    "h1Part1": "Daikin Aircond",
+    "h1Highlight": "Installation",
+    "h1Part2": "Malaysia",
+    "h2": "Installation, Servicing and Rent-to-Own Daikin Air Conditioners for Homes and Offices",
+    "supporting": "Genuine Daikin units with a 5-year compressor warranty. Inverter models cut electricity use by up to 50%. Daikin-trained technicians on site in 1–3 days.",
+    "ctaPrimary": "Get a Quote",
+    "ctaSecondary": "See Rent-to-Own →",
+    "statProducts": "Aircond Categories",
+    "statStates": "States Covered",
+    "statInstall": "Expert Installation",
+    "imageAlt": "Technician installing a wall-mounted Daikin air conditioner in a Malaysian home",
+    "bgAlt": "Technician mounting a Daikin inverter air conditioner on a living room wall"
+  },
+  "marquee": {
+    "items": [
+      "Daikin Installation",
+      "Service & Chemical Wash",
+      "Rent-to-Own From RM89/mo",
+      "Inverter Saves 50%",
+      "5-Year Compressor Warranty",
+      "R32 Eco-Friendly",
+      "Transparent Pricing",
+      "Nationwide Malaysia"
+    ]
+  },
+  "brandStrip": {
+    "eyebrow": "DAIKIN SERIES WE INSTALL",
+    "items": [
+      "Daikin SMARTO",
+      "Daikin FTKM Series",
+      "Daikin BLUVI",
+      "Daikin FTKP Series",
+      "Daikin FTKF Series",
+      "Daikin FTV-P Non-Inverter",
+      "Daikin SkyAir Cassette"
+    ]
+  },
+  "usp": {
+    "items": [
+      {
+        "title": "Daikin Specialists Only",
+        "body": "We work on one brand — Daikin. Our technicians know every model, from SMARTO to SkyAir cassette."
+      },
+      {
+        "title": "Genuine Units & Warranty",
+        "body": "5-year compressor warranty, 3-year parts. Every unit is brand new and registered."
+      },
+      {
+        "title": "Transparent Pricing",
+        "body": "Installation price includes bracket, 10ft piping and wiring. Any extra cost is confirmed before work starts."
+      }
+    ],
+    "srHeading": "Daikin Air Conditioners Trusted Across Malaysia"
+  },
+  "products": {
+    "eyebrow": "DAIKIN AIRCOND MODELS",
+    "h3": "Choose Your Daikin Air Conditioner",
+    "intro": "Inverter, non-inverter and cassette units — every price includes the unit and standard installation.",
+    "priceFrom": "From RM {price}",
+    "ctaTemplate": "Book Now",
+    "imageAltTemplate": "Daikin {model} air conditioner installed in a Malaysian home"
+  },
+  "combo": {
+    "eyebrow": "DAIKIN RENT-TO-OWN PLANS",
+    "h3": "Rent-to-Own a Daikin — and Keep It at the End",
+    "intro": "No large upfront payment. Pay monthly for a brand new Daikin unit including installation and a 1-year warranty.",
+    "note": "Unit + installation + warranty included",
+    "ctaLabel": "Book Plan",
+    "items": [
+      {
+        "name": "Rent-to-Own 1.0 HP",
+        "spec": "Daikin 1.0HP inverter — 24 months, RM200 deposit",
+        "price": "RM 109/mo",
+        "tag": "Most Popular"
+      },
+      {
+        "name": "Rent-to-Own 1.5 HP",
+        "spec": "Daikin 1.5HP inverter — 24 months, RM200 deposit",
+        "price": "RM 139/mo",
+        "tag": "Master Bedroom"
+      },
+      {
+        "name": "Rent-to-Own 2.0 HP",
+        "spec": "Daikin 2.0HP inverter — 24 months, RM300 deposit",
+        "price": "RM 209/mo",
+        "tag": "Living Room"
+      }
+    ],
+    "bgAlt": "Daikin inverter air conditioner installed under a monthly rent-to-own plan"
+  },
+  "process": {
+    "eyebrow": "DAIKIN INSTALLATION PROCESS",
+    "h3": "How Daikin Installation Works in 4 Steps",
+    "steps": [
+      {
+        "title": "WhatsApp Us",
+        "body": "Send a photo of the space and your room size — we recommend the right HP and quote you."
+      },
+      {
+        "title": "Confirm Model & Price",
+        "body": "Buy outright or pay monthly through rent-to-own. The quoted price is fixed, with no hidden charges."
+      },
+      {
+        "title": "Installed in 1–3 Days",
+        "body": "Technicians arrive in your chosen slot. A standard installation takes 2–4 hours."
+      },
+      {
+        "title": "Cold and Covered",
+        "body": "We test the unit with you. 5-year compressor warranty and WhatsApp support afterwards."
+      }
+    ],
+    "ctaBody": "The first step takes under a minute — send us your room size now.",
+    "ctaLabel": "WhatsApp Us",
+    "bgAlt": "Technician installing a Daikin air conditioner at a customer's home"
+  },
+  "whyUs": {
+    "eyebrow": "WHY CHOOSE US",
+    "h3": "Why Homeowners Choose Daikin Air Conditioners",
+    "items": [
+      {
+        "title": "Up to 50% Less Electricity",
+        "body": "Daikin's inverter compressor adjusts to room temperature instead of cycling on and off — bills drop noticeably."
+      },
+      {
+        "title": "As Quiet as 19 dBA",
+        "body": "Quieter than a whisper. Suited to bedrooms and nurseries."
+      },
+      {
+        "title": "5-Year Compressor Warranty",
+        "body": "Five years on the compressor, three on parts. Daikin compressors typically last 8–10 years."
+      },
+      {
+        "title": "Support After Installation",
+        "body": "Cooling or noise issue? WhatsApp us — no forms, no call centre queue."
+      }
+    ],
+    "bgAlt": "Daikin inverter air conditioner neatly installed on a living room wall"
+  },
+  "reviews": {
+    "eyebrow": "DAIKIN AIRCOND CUSTOMER REVIEWS",
+    "h3": "4.8 / 5 From Google Installation Reviews",
+    "aggregate": "4.8 / 5 from 186 Google reviews",
+    "postedOn": "Posted on Google",
+    "items": [
+      {
+        "name": "Ahmad Rizuan",
+        "suburb": "Puchong, Selangor",
+        "stars": 5,
+        "body": "WhatsApped in the morning about a 1.5HP Daikin, confirmed by the afternoon, installed the next day. Neat work and the price matched the quote."
+      },
+      {
+        "name": "Faizal Mokhtar",
+        "suburb": "Shah Alam, Selangor",
+        "stars": 5,
+        "body": "Took the rent-to-own plan for a 2HP Daikin in my rental unit — RM209 a month, no big upfront cost. My tenant is happy."
+      },
+      {
+        "name": "Siti Aminah",
+        "suburb": "Ampang, Kuala Lumpur",
+        "stars": 5,
+        "body": "My old unit was costing RM400 a month in electricity. After switching to a Daikin inverter it dropped to around RM250."
+      },
+      {
+        "name": "Jason Tan",
+        "suburb": "KLCC, Kuala Lumpur",
+        "stars": 5,
+        "body": "The chemical wash was worth it. The unit hadn't been serviced in four years and it cools like new again."
+      },
+      {
+        "name": "Nurul Hidayah",
+        "suburb": "Cyberjaya, Selangor",
+        "stars": 5,
+        "body": "I compared five shops before choosing. The pricing was the most transparent, no hidden charges, and rent-to-own was an option."
+      },
+      {
+        "name": "Kevin Lim",
+        "suburb": "Petaling Jaya, Selangor",
+        "stars": 5,
+        "body": "Installed three Daikin units in our new office. The team finished in a single day without disrupting work."
+      }
+    ],
+    "bgAlt": "Technician completing a Daikin air conditioner installation at a customer's home"
+  },
+  "gallery": {
+    "eyebrow": "DAIKIN INSTALLATION GALLERY",
+    "h3": "Daikin Installations in Homes and Offices",
+    "intro": "Installation and service work we have completed in houses, condominiums and commercial premises.",
+    "alts": [
+      "Technician installing a wall-mounted Daikin air conditioner in a living room",
+      "Daikin FTKM inverter air conditioner mounted in a modern bedroom",
+      "Daikin SkyAir cassette unit installed in an open-plan office ceiling",
+      "Daikin FTKB inverter air conditioner on a bedroom wall",
+      "Daikin FTKE inverter air conditioner installed in a family room",
+      "Daikin FTKF inverter air conditioner on a terrace house wall",
+      "Daikin FTKP inverter air conditioner installed in a master bedroom",
+      "Daikin FTV-P non-inverter air conditioner installed in a bedroom",
+      "Daikin FTV-P 3HP air conditioner installed in a large living room",
+      "Daikin SMARTO air conditioner with Wi-Fi control in a modern home",
+      "Technician performing a chemical wash service on a Daikin air conditioner",
+      "GO DAIKIN smartphone app controlling a home air conditioner"
+    ]
+  },
+  "faq": {
+    "eyebrow": "DAIKIN AIRCOND FAQ",
+    "h3": "Daikin Installation & Service Questions",
+    "items": [
+      {
+        "q": "How much does Daikin aircond installation cost?",
+        "a": "Prices start from RM1,760 for a 1HP Daikin unit including standard installation — bracket, 10ft of piping and wiring. If longer piping is needed we confirm the extra cost before starting work."
+      },
+      {
+        "q": "How does Daikin rent-to-own work?",
+        "a": "You choose a model and we install a brand new unit. Monthly payments start at RM89 (36 months) or RM109 (24 months), with a RM200–RM500 deposit depending on HP. Once payments finish the unit is 100% yours."
+      },
+      {
+        "q": "What is included in the rent-to-own plan?",
+        "a": "A brand new Daikin unit, professional installation and a 1-year warranty. You can add a maintenance plan at RM49/month for servicing every three months."
+      },
+      {
+        "q": "How much is Daikin servicing and chemical wash?",
+        "a": "General servicing starts at RM80 per unit and chemical wash from RM130. For cassette units, servicing starts at RM200 and a full chemical overhaul from RM350."
+      },
+      {
+        "q": "How long does installation take?",
+        "a": "Usually 1–3 days after the order is confirmed. The installation itself takes 2–4 hours depending on the setup, and you pick the slot."
+      },
+      {
+        "q": "Why choose Daikin over other brands?",
+        "a": "Daikin is the best-selling air conditioner brand in Malaysia. Its inverter units save up to 50% electricity, run as quiet as 19 dBA, carry a 5-year compressor warranty and use the more eco-friendly R32 refrigerant."
+      },
+      {
+        "q": "What if the unit breaks down during the rent-to-own term?",
+        "a": "Within the warranty period we repair or replace it at no cost. After that, rent-to-own customers get preferential service rates."
+      },
+      {
+        "q": "Which areas do you cover?",
+        "a": "We install and service Daikin air conditioners across Peninsular Malaysia, Sabah and Sarawak. WhatsApp your location to confirm the nearest technician slot."
+      }
+    ]
+  },
+  "locations": {
+    "eyebrow": "DAIKIN COVERAGE MALAYSIA",
+    "h3": "Daikin Installation & Service Across Malaysia",
+    "intro": "We install, service and offer rent-to-own Daikin air conditioners for homes and commercial premises across all 14 states.",
+    "topCitiesLabel": "Major Cities",
+    "stateLabels": {
+      "klangValley": "Klang Valley",
+      "selangor": "Selangor",
+      "negeriSembilan": "Negeri Sembilan",
+      "melaka": "Melaka",
+      "johor": "Johor",
+      "perak": "Perak",
+      "penang": "Penang",
+      "kedah": "Kedah",
+      "perlis": "Perlis",
+      "kelantan": "Kelantan",
+      "terengganu": "Terengganu",
+      "pahang": "Pahang",
+      "sabah": "Sabah",
+      "sarawak": "Sarawak",
+      "labuan": "Labuan"
+    }
+  },
+  "finalCta": {
+    "eyebrow": "FREE DAIKIN AIRCOND QUOTE",
+    "h3": "Install Your Daikin Air Conditioner Today",
+    "body": "Send us your room size and location — we will recommend the right HP and give you a fixed price within minutes.",
+    "ctaLabel": "WhatsApp Us",
+    "bgAlt": "Daikin inverter air conditioner cooling a living room in the evening"
+  },
+  "footer": {
+    "tagline": "Daikin AirCond Malaysia — installation, servicing and rent-to-own Daikin air conditioners for homes and offices. Genuine units, full warranty, transparent pricing.",
+    "productsHeading": "Services",
+    "productsLinks": [
+      "Aircond Installation",
+      "Service & Chemical Wash",
+      "Rent-to-Own",
+      "Commercial Cassette"
+    ],
+    "locationsHeading": "Key Locations",
+    "resourcesHeading": "Resources",
+    "blogLabel": "Blog",
+    "faqLabel": "FAQ",
+    "copyright": "© 2026 Daikin AirCond Malaysia. All rights reserved. Powered by Utopia Group of Companies"
+  },
+  "blog": {
+    "title": "Daikin AirCond Malaysia Blog",
+    "subtitle": "Guides on Daikin pricing, servicing and choosing the right model",
+    "readMore": "Read more",
+    "noPosts": "No articles published yet.",
+    "breadcrumbHome": "Home",
+    "breadcrumbBlog": "Blog",
+    "publishedOn": "Published on",
+    "minRead": "min read",
+    "recentPosts": "Recent articles",
+    "ctaBannerTitle": "Ready to install a Daikin at home?",
+    "ctaBannerBody": "WhatsApp us now for an installation quote or a rent-to-own plan.",
+    "ctaBannerLabel": "WhatsApp Us"
+  },
+  "location": {
+    "breadcrumbHome": "Home",
+    "breadcrumbLocations": "Locations",
+    "introTemplate": "Daikin aircond installation, servicing and rent-to-own in {location}, {state}. Genuine inverter units, 5-year compressor warranty, transparent pricing. WhatsApp for a quote.",
+    "h1Template": "Daikin Aircond Installation in {location}",
+    "h2Template": "Daikin Servicing and Rent-to-Own for Homes in {state}",
+    "nearbyHeading": "Daikin Installation Near {location}",
+    "nearbyEyebrow": "DAIKIN AIRCOND NEARBY AREAS"
+  },
+  "redirect": {
+    "heading": "Opening WhatsApp…",
+    "subtext": "Connecting you to the Daikin AirCond Malaysia team.",
+    "fallback": "Click here if you are not redirected"
+  }
+}

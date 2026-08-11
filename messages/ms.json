@@ -1,0 +1,347 @@
+{
+  "meta": {
+    "home": {
+      "title": "Pasang Aircond Daikin Malaysia — Servis & Sewa Beli | Daikin AirCond",
+      "description": "Pasang aircond Daikin dari RM1,760, servis dari RM80, sewa beli dari RM89/bulan. Inverter, non-inverter, cassette. Juruteknik pakar Daikin seluruh Malaysia. WhatsApp untuk harga."
+    },
+    "location": {
+      "title": "Pasang Aircond Daikin {location} — Servis & Sewa Beli | Daikin AirCond",
+      "description": "Pasang, servis, dan sewa beli aircond Daikin di {location}, {state}. Inverter Daikin jimat 50% elektrik, warranty compressor 5 tahun. WhatsApp untuk sebut harga."
+    },
+    "blogListing": {
+      "title": "Panduan Aircond Daikin — Blog Daikin AirCond Malaysia",
+      "description": "Panduan harga, servis, chemical wash, dan pilihan model aircond Daikin untuk rumah dan pejabat di Malaysia. Tips jimat elektrik dan penjagaan aircond."
+    }
+  },
+  "nav": {
+    "logoAlt": "Daikin AirCond Malaysia — Pasang, Servis & Sewa Beli Aircond Daikin",
+    "home": "Utama",
+    "products": "Model Aircond",
+    "packages": "Sewa Beli",
+    "locations": "Lokasi",
+    "blog": "Blog",
+    "whatsappCta": "WhatsApp Kami",
+    "calculator": "Sewa Beli"
+  },
+  "fomo": {
+    "eyebrow": "PROMO {monthUpper}",
+    "body": "Jimat sehingga RM 300 untuk pemasangan aircond Daikin — promo {month} berakhir dalam:",
+    "countdownLabel": "Hari : Jam : Minit : Saat",
+    "ctaLabel": "Dapatkan Harga"
+  },
+  "hero": {
+    "eyebrow": "PASANG · SERVIS · SEWA BELI AIRCOND DAIKIN",
+    "h1Part1": "Pasang",
+    "h1Highlight": "Aircond Daikin",
+    "h1Part2": "Malaysia",
+    "h2": "Pemasangan, Servis, dan Sewa Beli Aircond Daikin untuk Rumah dan Pejabat",
+    "supporting": "Unit Daikin asli dengan warranty compressor 5 tahun. Inverter jimat sehingga 50% elektrik. Juruteknik pakar Daikin datang dalam 1–3 hari.",
+    "ctaPrimary": "Dapatkan Harga",
+    "ctaSecondary": "Lihat Sewa Beli →",
+    "statProducts": "Kategori Aircond",
+    "statStates": "Negeri Diliputi",
+    "statInstall": "Pemasangan Pakar",
+    "imageAlt": "Juruteknik memasang aircond Daikin wall mounted di rumah Malaysia",
+    "bgAlt": "Juruteknik memasang unit aircond Daikin inverter di dinding ruang tamu"
+  },
+  "marquee": {
+    "items": [
+      "Pasang Aircond Daikin",
+      "Servis & Chemical Wash",
+      "Sewa Beli Dari RM89/bln",
+      "Inverter Jimat 50%",
+      "Warranty Compressor 5 Tahun",
+      "R32 Eco-Friendly",
+      "Harga Telus",
+      "Seluruh Malaysia"
+    ]
+  },
+  "brandStrip": {
+    "eyebrow": "SIRI AIRCOND DAIKIN YANG KAMI PASANG",
+    "items": [
+      "Daikin SMARTO",
+      "Daikin FTKM Series",
+      "Daikin BLUVI",
+      "Daikin FTKP Series",
+      "Daikin FTKF Series",
+      "Daikin FTV-P Non-Inverter",
+      "Daikin SkyAir Cassette"
+    ]
+  },
+  "usp": {
+    "items": [
+      {
+        "title": "Pakar Daikin Sahaja",
+        "body": "Kami fokus pada satu jenama — Daikin. Juruteknik faham setiap model, dari SMARTO sampai SkyAir cassette."
+      },
+      {
+        "title": "Unit Asli & Warranty",
+        "body": "Compressor warranty 5 tahun, parts 3 tahun. Semua unit brand new dan berdaftar."
+      },
+      {
+        "title": "Harga Telus",
+        "body": "Harga pasang termasuk bracket, piping 10 kaki, dan wiring. Kos tambahan dimaklum sebelum kerja mula."
+      }
+    ],
+    "srHeading": "Aircond Daikin Dipercayai Seluruh Malaysia"
+  },
+  "products": {
+    "eyebrow": "MODEL AIRCOND DAIKIN",
+    "h3": "Pilih Model Aircond Daikin Anda",
+    "intro": "Inverter, non-inverter, dan cassette — semua harga termasuk unit dan pemasangan standard.",
+    "priceFrom": "Dari RM {price}",
+    "ctaTemplate": "Tempah Sekarang",
+    "imageAltTemplate": "Aircond Daikin {model} dipasang di rumah Malaysia"
+  },
+  "combo": {
+    "eyebrow": "PELAN SEWA BELI AIRCOND DAIKIN",
+    "h3": "Sewa Beli Aircond Daikin — Akhirnya Jadi Milik Anda",
+    "intro": "Tak perlu bayar penuh. Bayar bulanan untuk unit Daikin brand new termasuk pemasangan dan warranty 1 tahun.",
+    "note": "Unit + pemasangan + warranty disertakan",
+    "ctaLabel": "Tempah Pakej",
+    "items": [
+      {
+        "name": "Sewa Beli 1.0 HP",
+        "spec": "Daikin 1.0HP inverter — 24 bulan, deposit RM200",
+        "price": "RM 109/bln",
+        "tag": "Paling Popular"
+      },
+      {
+        "name": "Sewa Beli 1.5 HP",
+        "spec": "Daikin 1.5HP inverter — 24 bulan, deposit RM200",
+        "price": "RM 139/bln",
+        "tag": "Sesuai Bilik Utama"
+      },
+      {
+        "name": "Sewa Beli 2.0 HP",
+        "spec": "Daikin 2.0HP inverter — 24 bulan, deposit RM300",
+        "price": "RM 209/bln",
+        "tag": "Ruang Tamu"
+      }
+    ],
+    "bgAlt": "Aircond Daikin inverter yang dipasang melalui pelan sewa beli bulanan"
+  },
+  "process": {
+    "eyebrow": "PROSES PEMASANGAN AIRCOND DAIKIN",
+    "h3": "Cara Pasang Aircond Daikin dalam 4 Langkah",
+    "steps": [
+      {
+        "title": "WhatsApp Kami",
+        "body": "Hantar gambar ruang dan saiz bilik — kami cadangkan HP yang sesuai dan bagi harga."
+      },
+      {
+        "title": "Sahkan Model & Harga",
+        "body": "Pilih beli terus atau sewa beli bulanan. Harga tetap disebut awal, tiada caj tersembunyi."
+      },
+      {
+        "title": "Pemasangan 1–3 Hari",
+        "body": "Juruteknik datang ikut slot pilihan anda. Pemasangan standard siap dalam 2–4 jam."
+      },
+      {
+        "title": "Sejuk & Dijamin",
+        "body": "Unit diuji di depan anda. Warranty compressor 5 tahun dan sokongan WhatsApp selepas pemasangan."
+      }
+    ],
+    "ctaBody": "Langkah pertama ambil masa kurang seminit — hantar saiz bilik anda sekarang.",
+    "ctaLabel": "WhatsApp Kami",
+    "bgAlt": "Juruteknik memasang unit aircond Daikin di rumah pelanggan"
+  },
+  "whyUs": {
+    "eyebrow": "KENAPA PILIH KAMI",
+    "h3": "Kenapa Pemilik Rumah Pilih Aircond Daikin",
+    "items": [
+      {
+        "title": "Jimat Sehingga 50% Elektrik",
+        "body": "Compressor inverter Daikin laraskan kelajuan ikut suhu bilik — bil elektrik turun ketara."
+      },
+      {
+        "title": "Senyap Serendah 19 dBA",
+        "body": "Lebih senyap daripada bisikan. Sesuai untuk bilik tidur dan bilik bayi."
+      },
+      {
+        "title": "Warranty Compressor 5 Tahun",
+        "body": "Compressor 5 tahun, parts 3 tahun. Hayat compressor Daikin lazimnya 8–10 tahun."
+      },
+      {
+        "title": "Sokongan Selepas Pemasangan",
+        "body": "Ada masalah sejuk atau bunyi? WhatsApp kami — kami bantu tanpa perlu isi borang."
+      }
+    ],
+    "bgAlt": "Unit aircond Daikin inverter dipasang kemas di dinding ruang tamu"
+  },
+  "reviews": {
+    "eyebrow": "ULASAN PELANGGAN AIRCOND DAIKIN",
+    "h3": "4.8 / 5 Ulasan Pemasangan Aircond di Google",
+    "aggregate": "4.8 / 5 daripada 186 ulasan Google",
+    "postedOn": "Disiarkan di Google",
+    "items": [
+      {
+        "name": "Ahmad Rizuan",
+        "suburb": "Puchong, Selangor",
+        "stars": 5,
+        "body": "Pagi WhatsApp tanya harga Daikin 1.5HP, petang dah confirm. Esok juruteknik datang pasang. Kerja kemas, harga ikut yang disebut."
+      },
+      {
+        "name": "Faizal Mokhtar",
+        "suburb": "Shah Alam, Selangor",
+        "stars": 5,
+        "body": "Saya ambil sewa beli Daikin 2HP untuk rumah sewa — RM209 sebulan je. Tak payah keluar modal besar. Tenant pun puas hati."
+      },
+      {
+        "name": "Siti Aminah",
+        "suburb": "Ampang, Kuala Lumpur",
+        "stars": 5,
+        "body": "Dulu pakai aircond lama, bil elektrik RM400 sebulan. Tukar Daikin inverter, turun jadi RM250. Patut tukar lama dah."
+      },
+      {
+        "name": "Jason Tan",
+        "suburb": "KLCC, Kuala Lumpur",
+        "stars": 5,
+        "body": "Chemical wash memang berbaloi. Aircond dah 4 tahun tak servis — lepas cuci, sejuk macam baru balik."
+      },
+      {
+        "name": "Nurul Hidayah",
+        "suburb": "Cyberjaya, Selangor",
+        "stars": 5,
+        "body": "Saya compare lima kedai sebelum pilih. Harga paling telus, takde hidden charges, siap ada pilihan sewa beli."
+      },
+      {
+        "name": "Kevin Lim",
+        "suburb": "Petaling Jaya, Selangor",
+        "stars": 5,
+        "body": "Pasang 3 unit Daikin untuk pejabat baru. Juruteknik siap semua dalam satu hari, tak ganggu operasi."
+      }
+    ],
+    "bgAlt": "Juruteknik menyiapkan pemasangan aircond Daikin di rumah pelanggan"
+  },
+  "gallery": {
+    "eyebrow": "GALERI PEMASANGAN AIRCOND DAIKIN",
+    "h3": "Pemasangan Aircond Daikin di Rumah & Pejabat",
+    "intro": "Hasil pemasangan dan servis aircond Daikin kami di rumah, kondominium, dan premis komersial.",
+    "alts": [
+      "Juruteknik memasang unit aircond Daikin wall mounted di ruang tamu rumah",
+      "Aircond Daikin FTKM inverter dipasang di dinding bilik moden",
+      "Unit cassette Daikin SkyAir dipasang di siling pejabat terbuka",
+      "Aircond Daikin FTKB inverter di dinding bilik tidur",
+      "Aircond Daikin FTKE inverter dipasang di ruang keluarga",
+      "Aircond Daikin FTKF inverter di dinding rumah teres",
+      "Aircond Daikin FTKP inverter dipasang di bilik utama",
+      "Aircond Daikin FTV-P non-inverter dipasang di bilik tidur",
+      "Aircond Daikin FTV-P 3HP dipasang di ruang tamu besar",
+      "Aircond Daikin SMARTO dengan kawalan Wi-Fi di rumah moden",
+      "Servis chemical wash aircond Daikin oleh juruteknik",
+      "Kawalan pintar GO DAIKIN melalui telefon pintar di rumah"
+    ]
+  },
+  "faq": {
+    "eyebrow": "SOALAN LAZIM AIRCOND DAIKIN",
+    "h3": "Soalan Lazim Pemasangan & Servis Aircond Daikin",
+    "items": [
+      {
+        "q": "Berapa harga pasang aircond Daikin?",
+        "a": "Harga bermula dari RM1,760 untuk unit Daikin 1HP termasuk pemasangan standard — bracket, piping 10 kaki, dan wiring. Kalau piping lebih panjang, kami maklumkan kos tambahan sebelum kerja bermula."
+      },
+      {
+        "q": "Macam mana sewa beli aircond Daikin berfungsi?",
+        "a": "Anda pilih model, kami pasang unit baru. Bayaran bulanan dari RM89/bulan (36 bulan) atau RM109/bulan (24 bulan), deposit RM200–RM500 bergantung HP. Selepas habis bayar, unit 100% jadi milik anda."
+      },
+      {
+        "q": "Sewa beli termasuk apa?",
+        "a": "Termasuk unit Daikin brand new, pemasangan profesional, dan warranty 1 tahun. Anda boleh tambah pelan penyelenggaraan RM49/bulan untuk servis setiap 3 bulan."
+      },
+      {
+        "q": "Berapa kos servis dan chemical wash aircond Daikin?",
+        "a": "Servis am bermula RM80 seunit dan chemical wash dari RM130. Untuk unit cassette, servis bermula RM200 dan full chemical overhaul dari RM350."
+      },
+      {
+        "q": "Berapa lama proses pemasangan?",
+        "a": "Biasanya 1–3 hari selepas order disahkan. Pemasangan sendiri ambil 2–4 jam bergantung setup. Anda pilih slot yang sesuai."
+      },
+      {
+        "q": "Kenapa pilih Daikin berbanding jenama lain?",
+        "a": "Daikin adalah jenama aircond paling laris di Malaysia. Inverter Daikin jimat sehingga 50% elektrik, serendah 19 dBA, warranty compressor 5 tahun, dan semua model guna gas R32 yang lebih mesra alam."
+      },
+      {
+        "q": "Kalau aircond rosak dalam tempoh sewa beli?",
+        "a": "Dalam tempoh warranty, kami repair atau ganti tanpa kos. Selepas warranty, pelanggan sewa beli dapat harga servis istimewa."
+      },
+      {
+        "q": "Kawasan mana yang anda cover?",
+        "a": "Kami pasang dan servis aircond Daikin di seluruh Semenanjung, Sabah, dan Sarawak. WhatsApp lokasi anda untuk sahkan slot juruteknik terdekat."
+      }
+    ]
+  },
+  "locations": {
+    "eyebrow": "LIPUTAN AIRCOND DAIKIN MALAYSIA",
+    "h3": "Pasang & Servis Aircond Daikin Seluruh Malaysia",
+    "intro": "Kami pasang, servis, dan sewa beli aircond Daikin untuk rumah dan premis komersial di seluruh 14 negeri Malaysia.",
+    "topCitiesLabel": "Bandar Utama",
+    "stateLabels": {
+      "klangValley": "Lembah Klang",
+      "selangor": "Selangor",
+      "negeriSembilan": "Negeri Sembilan",
+      "melaka": "Melaka",
+      "johor": "Johor",
+      "perak": "Perak",
+      "penang": "Pulau Pinang",
+      "kedah": "Kedah",
+      "perlis": "Perlis",
+      "kelantan": "Kelantan",
+      "terengganu": "Terengganu",
+      "pahang": "Pahang",
+      "sabah": "Sabah",
+      "sarawak": "Sarawak",
+      "labuan": "Labuan"
+    }
+  },
+  "finalCta": {
+    "eyebrow": "SEBUT HARGA AIRCOND DAIKIN PERCUMA",
+    "h3": "Pasang Aircond Daikin Anda Hari Ini",
+    "body": "Hantar saiz bilik dan lokasi anda — kami cadangkan HP yang sesuai dan bagi harga tetap dalam beberapa minit.",
+    "ctaLabel": "WhatsApp Kami",
+    "bgAlt": "Aircond Daikin inverter menyejukkan ruang tamu rumah pada waktu petang"
+  },
+  "footer": {
+    "tagline": "Daikin AirCond Malaysia — pasang, servis, dan sewa beli aircond Daikin untuk rumah dan pejabat. Unit asli, warranty penuh, harga telus.",
+    "productsHeading": "Perkhidmatan",
+    "productsLinks": [
+      "Pasang Aircond",
+      "Servis & Chemical Wash",
+      "Sewa Beli",
+      "Cassette Komersial"
+    ],
+    "locationsHeading": "Lokasi Utama",
+    "resourcesHeading": "Sumber",
+    "blogLabel": "Blog",
+    "faqLabel": "Soalan Lazim",
+    "copyright": "© 2026 Daikin AirCond Malaysia. Hak cipta terpelihara. Dikuasakan oleh Utopia Group of Companies"
+  },
+  "blog": {
+    "title": "Blog Daikin AirCond Malaysia",
+    "subtitle": "Panduan harga, servis, dan pilihan model aircond Daikin",
+    "readMore": "Baca selanjutnya",
+    "noPosts": "Belum ada artikel diterbitkan.",
+    "breadcrumbHome": "Laman Utama",
+    "breadcrumbBlog": "Blog",
+    "publishedOn": "Disiarkan pada",
+    "minRead": "min baca",
+    "recentPosts": "Artikel terkini",
+    "ctaBannerTitle": "Sedia pasang aircond Daikin di rumah anda?",
+    "ctaBannerBody": "WhatsApp kami sekarang untuk sebut harga pemasangan atau pelan sewa beli.",
+    "ctaBannerLabel": "WhatsApp Kami"
+  },
+  "location": {
+    "breadcrumbHome": "Laman Utama",
+    "breadcrumbLocations": "Lokasi",
+    "introTemplate": "Pasang, servis, dan sewa beli aircond Daikin di {location}, {state}. Unit inverter asli, warranty compressor 5 tahun, harga telus. WhatsApp untuk sebut harga.",
+    "h1Template": "Pasang Aircond Daikin di {location}",
+    "h2Template": "Servis dan Sewa Beli Aircond Daikin untuk Rumah di {state}",
+    "nearbyHeading": "Pemasangan Aircond Daikin Berhampiran {location}",
+    "nearbyEyebrow": "AIRCOND DAIKIN KAWASAN BERDEKATAN"
+  },
+  "redirect": {
+    "heading": "Membuka WhatsApp…",
+    "subtext": "Anda sedang dihubungkan ke pasukan Daikin AirCond Malaysia.",
+    "fallback": "Klik di sini jika tidak berpindah"
+  }
+}
