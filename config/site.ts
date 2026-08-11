@@ -2,8 +2,8 @@ export const siteConfig = {
   brandName: 'Daikin AirCond Malaysia',
   legalName: 'Utopia Group of Companies',
   tagline: 'Pasang, Servis & Sewa Beli Aircond Daikin Malaysia',
-  domain: 'daikin-aircond.vercel.app',
-  url: 'https://daikin-aircond.vercel.app',
+  domain: 'daikinaircond.my',
+  url: 'https://daikinaircond.my',
   // Pinned company_websites.id — a domain rename can never disconnect this site.
   siteId: '0e5cc273-393a-4273-ad1d-1c5eafcda16f',
   productSlug: 'aircond-daikin',
