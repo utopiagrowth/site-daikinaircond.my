@@ -85,13 +85,20 @@ export default async function LocaleLayout({
     <html lang={locale} className={`${inter.variable} ${mono.variable}`}>
       <head>
         <link rel="icon" href="/icon.svg" type="image/svg+xml" />
-        {/* Google Tag Manager — PLACEHOLDER container.
-            This site has no GTM container or Search Console property yet: Gloo
-            (docs/full-website-setup.md Step 14 / the `google-integration` skill)
-            creates them and rewrites GTM_ID + the google-site-verification meta
-            once the PAID domain is live. Do NOT paste another site's container
-            here — the scaffold arrived carrying water-tank.my's live container,
-            which would have posted Daikin's conversions into TANKPRO's account. */}
+        {/* Search Console URL-prefix property for https://daikinaircond.my/.
+            The sc-domain: property is DNS-verified and needs no tag; this one
+            is META-verified, so removing this line un-verifies the property. */}
+        <meta
+          name="google-site-verification"
+          content="PFNyIIn2L64887xnwPFNPPMifbpfG7wgCxqRQbJxLdI"
+        />
+        {/* Google Tag Manager — this site's OWN container, GTM-N5BW97JN
+            (GTM account 6000211475, container 260994924), created by Gloo for
+            daikinaircond.my alongside GA4 G-W5D2SSWWZY. Cross-check any change
+            against scripts/google-automation/configs/daikinaircond.my.json —
+            the scaffold originally arrived carrying water-tank.my's live
+            container, which would have posted Daikin's conversions into
+            TANKPRO's account. */}
         <script
           id="gtm-base"
           dangerouslySetInnerHTML={{
@@ -99,7 +106,7 @@ export default async function LocaleLayout({
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-DAIKINMY');`,
+})(window,document,'script','dataLayer','GTM-N5BW97JN');`,
           }}
         />
         {/* End Google Tag Manager */}
@@ -114,7 +121,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         {/* Google Tag Manager (noscript) */}
         <noscript>
           <iframe
-            src="https://www.googletagmanager.com/ns.html?id=GTM-DAIKINMY"
+            src="https://www.googletagmanager.com/ns.html?id=GTM-N5BW97JN"
             height="0"
             width="0"
             style={{ display: 'none', visibility: 'hidden' }}
