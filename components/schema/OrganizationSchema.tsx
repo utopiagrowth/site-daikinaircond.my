@@ -7,7 +7,7 @@ export function OrganizationSchema() {
     name: siteConfig.brandName,
     legalName: siteConfig.legalName,
     url: siteConfig.url,
-    logo: `${siteConfig.url}/logo.png`,
+    logo: `${siteConfig.url}/images/brand/daikin-logo.png`,
     description: siteConfig.tagline,
     areaServed: { '@type': 'Country', name: 'Malaysia' },
   };
