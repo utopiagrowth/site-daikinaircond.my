@@ -343,5 +343,8 @@
     "heading": "Opening WhatsApp…",
     "subtext": "Connecting you to the Daikin AirCond Malaysia team.",
     "fallback": "Click here if you are not redirected"
+  },
+  "contact": {
+    "availability": "Available 24/7"
   }
 }

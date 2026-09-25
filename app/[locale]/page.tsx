@@ -10,6 +10,7 @@ import { fallbackProducts } from '@/config/products';
 import { waRedirect } from '@/lib/waRedirect';
 import { ProductSchema } from '@/components/schema/ProductSchema';
 import { FAQSchema } from '@/components/schema/FAQSchema';
+import ContactNumber from '@/components/ContactNumber';
 import SiteHeader from '@/components/SiteHeader';
 import SiteFooter from '@/components/SiteFooter';
 import FomoBanner from '@/components/FomoBanner';
@@ -190,7 +191,7 @@ export default async function HomePage({
   return (
     <>
       <FomoBanner />
-      <SiteHeader />
+      <SiteHeader contact={<ContactNumber locale={locale} page="/" />} />
 
       {products.map((p) => (
         <ProductSchema
@@ -588,7 +589,7 @@ export default async function HomePage({
         </div>
       </section>
 
-      <SiteFooter locale={locale} />
+      <SiteFooter locale={locale} page="/" />
 
       <PageStyles />
     </>
