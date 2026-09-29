@@ -29,6 +29,7 @@ import MarketingMarquee from '@/components/MarketingMarquee';
 import PageStyles from '@/components/PageStyles';
 import ProductImpressionTracker from '@/components/tracking/ProductImpressionTracker';
 import { WhatsAppButton, WaIcon } from '@/components/WhatsAppButton';
+import { withSeoOverride } from '@/lib/webcoreSeo';
 
 // Same 12 Daikin install / product scenes as the homepage — no repeats, so the
 // gallery grid fills completely at every breakpoint.
@@ -85,13 +86,13 @@ export async function generateMetadata({
     routing.locales.map((l) => [l, `${localeHref(l)}${path}`]),
   );
   languages['x-default'] = `${localeHref(routing.defaultLocale)}${path}`;
-  return {
+  return withSeoOverride(locale, path, {
     title,
     description,
     alternates: { canonical: `${localeHref(locale)}${path}`, languages },
     openGraph: { title, description, url: `${localeHref(locale)}${path}`, type: 'website', images: ogImages(locale) },
     twitter: { card: 'summary_large_image', images: ogImages(locale) },
-  };
+  });
 }
 
 function GoogleG({ size = 22 }: { size?: number }) {
