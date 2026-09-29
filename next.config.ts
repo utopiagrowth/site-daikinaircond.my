@@ -7,6 +7,10 @@ loadEnvConfig(process.cwd() + '/../..');
 const withNextIntl = createNextIntlPlugin('./i18n/request.ts');
 
 const nextConfig: NextConfig = {
+  // Keep metadata blocking for every user agent. By default Next streams it into
+  // <body> for anything not on its bot list — webcore's audit (`head > title`)
+  // and some crawlers then find no title on a freshly rendered page.
+  htmlLimitedBots: /.*/,
   images: {
     remotePatterns: [
       { protocol: 'https', hostname: 'placehold.co' },
